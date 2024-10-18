@@ -20,5 +20,6 @@
     },
     "peacock.color": "#215732",
     "java.compile.nullAnalysis.mode": "automatic",
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "CodeGPT.apiKey": "Ollama"
 }
